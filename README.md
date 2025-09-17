@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Napa-Guna-Sai-Sujith
 - 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning Node Js and React Js
 - 💞️ I’m looking to collaborate on companies to get the job
 - 📫 How to reach me on insta (sai_0_6)
 
